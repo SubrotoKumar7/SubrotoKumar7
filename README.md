@@ -1,6 +1,5 @@
 <img src='./assets/banner.png' width="100%" height="250px">
 <br/>
-<br/>
 
 <h1 align="center">Hi 👋, I'm Subroto Kumar</h1>
 
@@ -73,11 +72,4 @@ My main interest is web development, and my career goal is to become a software 
 
 <h3 align="left">Current Stack & Git Stats:</h3>
 
-<!-- Top Languages / Current Stack -->
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrotokumar7&show_icons=true&locale=en&layout=compact" alt="subrotokumar7" /></p> -->
-
-<!-- Total Commits / GitHub Stats -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subrotokumar7&show_icons=true&locale=en" alt="subrotokumar7" /></p> -->
-
-<!-- Longest Streak -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subrotokumar7&" alt="subrotokumar7" /></p>
