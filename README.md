@@ -1,1 +1,83 @@
-<h1 align="center">Hi 👋, I'm Subroto Kumar</h1> <h3 align="center">frontend developer</h3>  <p align="left"> <img src="https://komarev.com/ghpvc/?username=subrotokumar7&label=Profile%20views&color=0e75b6&style=flat" alt="subrotokumar7" /> </p>  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subrotokumar7" alt="subrotokumar7" /></a> </p>  - 🌱 I’m currently learning **React JS**  <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://fb.com/profile.php?id=100087891582825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100087891582825" height="30" width="40" /></a> </p>  <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrotokumar7&show_icons=true&locale=en&layout=compact" alt="subrotokumar7" /></p>  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subrotokumar7&show_icons=true&locale=en" alt="subrotokumar7" /></p>  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subrotokumar7&" alt="subrotokumar7" /></p>
+<img src='./assets/banner.png' width="100%" height="250px">
+<br/>
+<br/>
+
+<h1 align="center">Hi 👋, I'm Subroto Kumar</h1>
+
+<p align="center">MERN Stack Web Developer</p>
+
+---
+
+I'm a MERN Stack Web Developer with working knowledge of React, Node.js, Express.js, and MongoDB.  
+Currently, I'm learning Next.js and focusing on building modern web applications.  
+My main interest is web development, and my career goal is to become a software engineer.
+
+
+### 🚀 Current Activities
+- 🌱 Learning **Next.js** to build modern, scalable web applications  
+- 🛠️ Building and refining projects using React, Node.js, Express & MongoDB  
+- 📂 Improving GitHub repositories, code quality, and best practices  
+- 🔍 Actively seeking **Junior MERN Stack / Frontend Developer** opportunities  
+
+
+
+
+## 🧠 Tools & Technologies
+
+### 🖥️ Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### ⚙️ Frameworks & Libraries
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+### 🎨 Frontend & Styling
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-FFFFFF?style=flat-square&logo=daisyui&logoColor=FBBF24)
+
+
+
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+
+
+### 🚀 Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Surge](https://img.shields.io/badge/Surge-0C344B?style=flat-square&logo=surge&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+
+---
+
+### 🔗 Connect with Me
+<p>
+    <a title="facebook" href="https://www.facebook.com/subrotokumar17"><img width="40" src="./assets/facebook.png" alt="facebook"></a>
+    <a title="linkedin" href="https://www.linkedin.com/in/subrotokumar7"><img width="40" src="./assets/linkedin.png" alt="linkedin"></a>
+    <a title="frontend mentor" href="https://www.frontendmentor.io/profile/SubrotoKumar7"><img width="40" src="./assets/frontendmentor.png" alt="frontend mentor"></a>
+</p>
+
+---
+
+<h3 align="left">Current Stack & Git Stats:</h3>
+
+<!-- Top Languages / Current Stack -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subrotokumar7&show_icons=true&locale=en&layout=compact" alt="subrotokumar7" /></p>
+
+<!-- Total Commits / GitHub Stats -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subrotokumar7&show_icons=true&locale=en" alt="subrotokumar7" /></p>
+
+<!-- Longest Streak -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subrotokumar7&" alt="subrotokumar7" /></p>
